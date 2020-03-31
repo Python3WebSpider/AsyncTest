@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ee2241b-85b5-4c34-83d6-aa2b7f66d686" name="Default Changelist" comment="" />
+    <list default="true" id="2ee2241b-85b5-4c34-83d6-aa2b7f66d686" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asynctest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo9.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +34,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZsloGBZ85eJKnnYzr55R4jR4Zh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -176,7 +200,7 @@
       <workItem from="1585635857301" duration="3715000" />
       <workItem from="1585645979275" duration="442000" />
       <workItem from="1585647294488" duration="303000" />
-      <workItem from="1585647889550" duration="634000" />
+      <workItem from="1585647889550" duration="905000" />
     </task>
     <servers />
   </component>
@@ -184,30 +208,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1868" height="346" key="GridCell.Tab.0.bottom" timestamp="1585648671608">
+    <state width="1868" height="346" key="GridCell.Tab.0.bottom" timestamp="1585648977036">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1388" height="271" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585646351679" />
     <state width="1868" height="478" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080/1231.1080.1440.900@0.0.1920.1080" timestamp="1585648055468" />
-    <state width="1868" height="346" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.0.1920.1080/1231.1080.1440.900@0.23.1920.1057" timestamp="1585648671608" />
-    <state width="1868" height="346" key="GridCell.Tab.0.center" timestamp="1585648671607">
+    <state width="1868" height="346" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.0.1920.1080/1231.1080.1440.900@0.23.1920.1057" timestamp="1585648977036" />
+    <state width="1868" height="346" key="GridCell.Tab.0.center" timestamp="1585648977035">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1388" height="271" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585646351678" />
     <state width="1868" height="478" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080/1231.1080.1440.900@0.0.1920.1080" timestamp="1585648055467" />
-    <state width="1868" height="346" key="GridCell.Tab.0.center/0.23.1920.1057/1920.0.1920.1080/1231.1080.1440.900@0.23.1920.1057" timestamp="1585648671607" />
-    <state width="1868" height="346" key="GridCell.Tab.0.left" timestamp="1585648671607">
+    <state width="1868" height="346" key="GridCell.Tab.0.center/0.23.1920.1057/1920.0.1920.1080/1231.1080.1440.900@0.23.1920.1057" timestamp="1585648977035" />
+    <state width="1868" height="346" key="GridCell.Tab.0.left" timestamp="1585648977034">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1388" height="271" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585646351677" />
     <state width="1868" height="478" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080/1231.1080.1440.900@0.0.1920.1080" timestamp="1585648055466" />
-    <state width="1868" height="346" key="GridCell.Tab.0.left/0.23.1920.1057/1920.0.1920.1080/1231.1080.1440.900@0.23.1920.1057" timestamp="1585648671607" />
-    <state width="1868" height="346" key="GridCell.Tab.0.right" timestamp="1585648671608">
+    <state width="1868" height="346" key="GridCell.Tab.0.left/0.23.1920.1057/1920.0.1920.1080/1231.1080.1440.900@0.23.1920.1057" timestamp="1585648977034" />
+    <state width="1868" height="346" key="GridCell.Tab.0.right" timestamp="1585648977035">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1388" height="271" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585646351678" />
     <state width="1868" height="478" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080/1231.1080.1440.900@0.0.1920.1080" timestamp="1585648055467" />
-    <state width="1868" height="346" key="GridCell.Tab.0.right/0.23.1920.1057/1920.0.1920.1080/1231.1080.1440.900@0.23.1920.1057" timestamp="1585648671608" />
+    <state width="1868" height="346" key="GridCell.Tab.0.right/0.23.1920.1057/1920.0.1920.1080/1231.1080.1440.900@0.23.1920.1057" timestamp="1585648977035" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/asynctest$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1585637827863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
